@@ -59,9 +59,6 @@ div > div > div{
 }
 
 .content{
-	position: relative;
-	top: 0px;
-	left: 0px;
 	padding: 34px 10px 0px 10px;
 	text-align: justify;
 }
