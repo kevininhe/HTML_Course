@@ -1,2 +1,2 @@
-# web-test
-Coursera test repository
+# HTML_course
+HTML Course repository
