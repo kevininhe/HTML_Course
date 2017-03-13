@@ -8,14 +8,14 @@
 .navbar-brand {
   padding-bottom: 25px;
 }
-.navbar-brand a:hover, .navbar-brand a:focus {
-  text-decoration: none;
-}
 .navbar-brand h1 { /* Page name */
   color: #fff;
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
 }
 /** BODY **/
 .container h2 {
@@ -31,4 +31,13 @@
 	padding: 0px 10px 0px 10px;
 	height: 700px;
 	margin-bottom: 15px;
+}
+.row .column_content a{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+
+}
+.row .column_content a:hover, .row .column_content a:hover{
+	font-size: 1.1em;
 }
