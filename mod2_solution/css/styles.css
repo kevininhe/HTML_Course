@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
 /* Simple Responsive Framework. */
@@ -55,7 +55,7 @@ div > div > div{
 	background-color: #00ff00;
 }
 #title3{
-	background-color: #6600ff;
+	background-color: #cc9900;
 }
 
 .content{
